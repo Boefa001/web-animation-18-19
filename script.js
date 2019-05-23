@@ -185,6 +185,9 @@ document.addEventListener("keypress",function(e) {
   }
 });
 
+document.addEventListener("dblclick", function(){
+  toetsklik.classList.toggle("toetsklikken")
+});
 
 // 1. uitlezen wanneer er wordt geklikt op element naar keuze
 // 2. kan ik iets "console.loggen" op deze klik ("hallo")
