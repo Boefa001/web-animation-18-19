@@ -30,6 +30,7 @@ main {
   font-size: 17em;
   text-align: center;
   font-family: sans-serif;
+  overflow: hidden;
 }
 
 .P1 {
@@ -267,6 +268,30 @@ main {
 }
 
 /*hover animaties*/
+.T:hover {
+transform: scale(0.9);
+}
+
+.Y:hover {
+  transform: scale(0.9);
+}
+
+.O:hover {
+  transform: scale(0.9);
+}
+
+.A:hover {
+  transform: scale(0.9);
+}
+
+.H:hover {
+  transform: scale(0.9);
+}
+
+.I:hover {
+  transform: scale(0.9);
+}
+
 .P1:hover {
   transition-duration: 1s;
   -moz-transform: scale(-1, 1);
