@@ -82,6 +82,7 @@ ffklikke.addEventListener('click', function() {
 ```
 
 **Animatie 4**
+
 Bij mijn vierde animatie heb ik een keypress animatie toegevoegd. Gedurende deze animatie laat ik de gehele div 1 rondje draaien. 
 Bij deze animatie maak ik opnieuw een variabel aan die een class opslaat. Hier heb ik ook weer een event aan toegevoegd, keypress 
 en hier ook weer een toggle aan toegevoegd. Hierna geef ik mijn class de variabele 'toetsklikken', die ik binnen mijn CSS opnieuw
