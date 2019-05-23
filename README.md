@@ -1,6 +1,10 @@
 # web-animation-18-19
 🎓 Web Animation · 2018-2019 · Curriculum and Syllabus 
 
+**Link**
+
+https://boefa001.github.io/web-animation-18-19/index.html
+
 **Grid**
 Voor het vak Web Animatie heb ik een poster moeten kiezen die ik online heb geanimeerd. Ik ben begonnen met het coderen van
 de elementen die zich binnen mijn poster bevinden. Nadat ik dit had gedaan, kwam ik erachter dat er zonder grid-layout niet 
