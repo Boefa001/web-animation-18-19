@@ -185,8 +185,50 @@ document.addEventListener("keypress",function(e) {
   }
 });
 
-document.addEventListener("dblclick", function(){
+
+/*Mobiel en App*/
+toetsklik.addEventListener("dblclick", function(){
   toetsklik.classList.toggle("toetsklikken")
+});
+
+toetsklik1.addEventListener("dblclick", function(){
+  toetsklik1.classList.toggle("toetsklikken")
+});
+
+toesklik3.addEventListener("dblclick", function(){
+  toetsklik2.classList.toggle("toetsklikken")
+});
+
+toetsklik3.addEventListener("dblclick", function(){
+  toetsklik3.classList.toggle("toetsklikken")
+});
+
+toetsklik4.addEventListener("dblclick", function(){
+  toetsklik4.classList.toggle("toetsklikken")
+});
+
+toetsklik5.addEventListener("dblclick", function(){
+  toetsklik5.classList.toggle("toetsklikken")
+});
+
+toetsklik6.addEventListener("dblclick", function(){
+  toetsklik6.classList.toggle("toetsklikken")
+});
+
+toetsklik7.addEventListener("dblclick", function(){
+  toetsklik7.classList.toggle("toetsklikken")
+});
+
+toetsklik8.addEventListener("dblclick", function(){
+  toetsklik8.classList.toggle("toetsklikken")
+});
+
+toetsklik9.addEventListener("dblclick", function(){
+  toetsklik9.classList.toggle("toetsklikken")
+});
+
+toetsklik10.addEventListener("dblclick", function(){
+  toetsklik10.classList.toggle("toetsklikken")
 });
 
 // 1. uitlezen wanneer er wordt geklikt op element naar keuze
